@@ -1,6 +1,13 @@
 # Building_Calculator_Project.py
 In this Calculator building project important lines or you can say almost all the lines are having comments for understanding purpose. If you're new to 
 python then also you can understood this one. Good Luck
-
 With thanks
 Satyajit Sen
+
+imported tools for this project:
+1 'eval' which is an build in funciton of python is used for arithmatic operation.
+2. 're'  module is used here for removing strings, punctions and other stuff which is not basically required for executing math equations.
+3. 2 loops for and while are used in this little program.
+
+
+
